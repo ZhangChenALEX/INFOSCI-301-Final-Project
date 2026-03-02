@@ -55,8 +55,15 @@ https://huggingface.co/datasets/Jambajuicezc/INFOSCI301_Final_Project
 **Interactive Demo**  
 https://jasmineyuan-yao.github.io/
 
-**Teaser Video**  
-https://duke.zoom.us/rec/share/NkxJNIgDXu4bbl99hyty_gnLnaQ-rDuVoSwi1o4qTjkZz0MmSbFtAeFOg-voKCNp.ReZqRRtnqbPGtHhY?startTime=1771141885000  
+## Teaser Video
+
+Click the thumbnail below to watch the project overview.
+
+<p align="center">
+  <a href="https://duke.zoom.us/rec/share/NkxJNIgDXu4bbl99hyty_gnLnaQ-rDuVoSwi1o4qTjkZz0MmSbFtAeFOg-voKCNp.ReZqRRtnqbPGtHhY?startTime=1771141885000">
+    <img src="assets/video_thumbnail.png" width="850">
+  </a>
+</p>
 
 The visualization is web-based and compatible with modern browsers. Design decisions follow accessibility principles outlined in the SIGCHI accessibility guidelines (https://sigchi.org/resources/guides-for-authors/accessibility/), including readable color gradients, clear legends, structured interaction patterns, and reduced cognitive load in cross-year comparisons. Source code and processed datasets are publicly available to ensure transparency and reproducibility.
 
