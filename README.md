@@ -53,7 +53,7 @@ https://github.com/ZhangChenALEX/INFOSCI-301-Final-Project
 https://huggingface.co/datasets/Jambajuicezc/INFOSCI301_Final_Project  
 
 **Interactive Demo**  
-Urban Air Quality Chronicle  
+https://jasmineyuan-yao.github.io/
 
 **Teaser Video**  
 https://duke.zoom.us/rec/share/NkxJNIgDXu4bbl99hyty_gnLnaQ-rDuVoSwi1o4qTjkZz0MmSbFtAeFOg-voKCNp.ReZqRRtnqbPGtHhY?startTime=1771141885000  
@@ -82,25 +82,4 @@ https://duke.zoom.us/rec/share/NkxJNIgDXu4bbl99hyty_gnLnaQ-rDuVoSwi1o4qTjkZz0MmS
   <img src="assets/poster_preview.png" width="850">
 </p>
 
-**Editable Canva Version**  
-https://www.canva.cn/design/DAHAKCR_VRo/-KRhgXKUUBni3bMq0_Bl1w/edit?utm_content=DAHAKCR_VRo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
 
-**Download PDF Version**  
-[Final Poster PDF](poster/INFOSCI301_Poster.pdf)
-
----
-
-## Supplementary Materials
-
-**Collaborative GitHub Repository**  
-https://github.com/ZhangChenALEX/INFOSCI-301-Final-Project  
-
-**Hugging Face Dataset**  
-https://huggingface.co/datasets/Jambajuicezc/INFOSCI301_Final_Project  
-
-**Interactive Demo**  
-Urban Air Quality Chronicle  
-
----
-
-## Recommended Repository Structure
