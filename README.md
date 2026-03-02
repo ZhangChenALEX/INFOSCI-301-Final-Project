@@ -75,12 +75,6 @@ information visualization · radial heatmap · air quality analytics · long-ter
 
 ---
 
-## Teaser Video
-
-Watch the project overview presentation:  
-https://duke.zoom.us/rec/share/NkxJNIgDXu4bbl99hyty_gnLnaQ-rDuVoSwi1o4qTjkZz0MmSbFtAeFOg-voKCNp.ReZqRRtnqbPGtHhY?startTime=1771141885000  
-
----
 
 ## Collaborative Canva Poster
 
